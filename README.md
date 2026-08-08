@@ -19,6 +19,7 @@
 - HTML5 / CSS3 / Vanilla JavaScript
 - Google Fonts (Vazirmatn)
 - تصاویر محلی در پوشه `images/`
+- بهینه برای GitHub Pages
 
 ## مجوز
 
